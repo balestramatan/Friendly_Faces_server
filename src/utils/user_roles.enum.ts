@@ -1,0 +1,7 @@
+enum UserRoles {
+    "ADMIN" = 1,
+    "USER" = 2,
+    "RESTRICTED" = 3
+}
+
+export default UserRoles;
